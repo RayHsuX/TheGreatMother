@@ -1,0 +1,16 @@
+changeBg:莲花1_HD.png -next
+:突然响起音乐;
+bgm:bgmm/莲花族谱.mp3;
+setBgAni:moveBaF 3s;
+changeBg:莲花2_HD.png -next
+:伴随着奇异的音乐，身下的莲花生长起来，根茎长得飞快。
+它将你稳稳托起，穿过了塔层中心的空洞，没有停留，越来越高，眼前的景象飞速掠过。;
+setBgAni:centerIn 3s;
+changeBg:大地河流星月夜1_HD.png -next
+:你看到大地，蜿蜒的河流，乌云，夜晚的星和月。;
+setBgAni:centerIn 5s;
+changeBg:大地河流星月夜2_HD.png -next
+:又看到太阳，云彩，树木，雄壮的高山，大地。
+模糊的残影中你仿佛看到了门的轮廓，你想去抓住，但是你还在上升——上升———
+你不知道塔的顶端到底在哪，也许是没有尽头的。;
+changeScene:S7.txt;

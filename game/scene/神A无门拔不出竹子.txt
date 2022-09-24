@@ -1,0 +1,4 @@
+bgm:bgmm/竹林.mp3;
+changeBg:石中竹.jpg -next
+:你使出浑身解数，没有办法拔起笛子，失望而去。;
+changeScene:神A无门_jb山.txt;

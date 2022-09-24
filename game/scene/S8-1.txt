@@ -1,0 +1,2 @@
+changeBg:三神像.jpg
+choose:与神明对话:神明A.txt;

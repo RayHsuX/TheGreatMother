@@ -1,0 +1,12 @@
+bgm:bgmm/塔3.mp3;
+changeBg:肉胎并蒂莲1.gif -next
+:不知道过了多久，混沌的黑暗中突然出现一丝微光，光的裂缝越来越大。
+你开始像蛋壳中的小鸡一样挣扎，求生的欲望让你充满了力量，直到包裹你身体的壳完全展开，才发现你是在一朵井底绽放的莲花中。;
+setBgAni:bg_softIn 2s;
+changeBg:古静《井胎》.gif -next
+:「....我是谁？  这里是哪里？」;
+:环顾四周，都是光滑的井壁，一滴水落下，回声从各方传来。 -水滴.ogg;
+setBgAni:centerIn 3s;
+changeBg:莲花1_HD.png -next
+:除了还有许多尚未绽放的莲花花苞因你的诞生微微颤动着，此外空无一人。;
+changeScene:S6.txt;

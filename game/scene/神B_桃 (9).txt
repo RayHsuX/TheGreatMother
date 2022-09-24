@@ -1,0 +1,10 @@
+setFigAni:moveBaF 2s -center;
+changeFigure:白桃.png -next;
+:你摘下了一颗最大最鲜美的桃子，拿在手中把玩，看着竟然像是屁股的形状。;
+changeFigure:none -next;
+恭喜你获得「自然之力」x1!;
+changeBg:桃9.jpg -next
+:树上的桃子被你摘光了;
+:获得无用称号：「闲者状态」
+你是真的很闲！;
+changeScene:神B顺性别.txt;

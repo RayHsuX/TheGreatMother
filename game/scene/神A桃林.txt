@@ -1,0 +1,11 @@
+bgm:bgmm/草地.mp3;
+setBgAni:rightIn 3s;
+changeBg:桃树林草地1_HD.png -next
+:终于走了出来，阳光洒在不远处，柔和的风拂面而来，你深吸一口气，将之前的恐惧都抛在了脑后。;
+:桃子和青草的自然清香充斥在鼻腔，你走进了这片树林。;
+setBgAni:moveBaF 3s;
+changeBg:warmtrees白桃.gif
+:一颗颗熟透的饱满的桃子挂在枝头，随手便可以采撷一个。;
+setBgAni:centerIn 3s;
+changeBg:桃满.jpg
+choose:摘下一颗桃子:神A_桃1.txt|不摘，直接穿过这片桃林:神A无门.txt;

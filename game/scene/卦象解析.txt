@@ -1,0 +1,5 @@
+playVideo:抽取卦象.mp4;
+changeBg:生卦.jpg -next
+:屯卦，卦辞：屯：元亨，利贞，勿用有攸往。利建侯。 -抽卦.ogg;
+:屯卦，万物始生。;
+changeScene:S4.txt;

@@ -1,0 +1,13 @@
+playVideo:《鸟道》Wandering_林璟.mp4;
+setBgAni:bg_softIn 3s;
+changeBg:竹林2.png -next
+:穿过桃林，你来到了一片郁郁葱葱的竹林，笔直的竹干向上生长。
+微风吹过，枝叶摇曳，光斑洒在小道上。;
+setBgAni:moveBaF 3s;
+changeBg:竹林.png -next
+:你正享受着难得的闲暇时刻，突然远处有个闪光的东西吸引了你的注意。;
+setBgAni:bg_down 2s;
+changeBg:石中竹（光）.jpg
+:你好奇的走上前去，看到是一个竹笛插在石缝中，不知道是什么材质雕刻而成，流光溢彩，通体晶莹。
+;
+choose:这是什么宝物在等着我？走上去，想拔出来:神A顺性别拔竹子.txt|好奇心害死猫，还是不要碰了，直接走掉:神A顺性别_jb山.txt;

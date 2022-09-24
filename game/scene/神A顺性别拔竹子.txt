@@ -1,0 +1,7 @@
+bgm:bgmm/竹林.mp3;
+changeBg:石中竹.jpg -next
+setFigAni:upIn 2s -center;
+changeFigure:灵笛.png -next;
+:恭喜你将“灵笛”拔出，可不是用来吹的哦！请将笛子一端贴近地面，倾听大地的声音！;
+changeFigure:none;
+choose:使用灵笛，和大地沟通:神A顺性别灵笛提示.txt|不想用，直接穿过竹林:神A顺性别_jb山.txt;

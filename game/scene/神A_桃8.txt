@@ -1,0 +1,8 @@
+setFigAni:moveBaF 2s -center;
+changeFigure:白桃.png -next;
+:你摘下了一颗最大最鲜美的桃子，拿在手中把玩，看着竟然像是屁股的形状。;
+changeFigure:none -next;
+恭喜你获得「自然之力」x1!;
+changeBg:桃8.jpg -next
+:请问你还要多摘几颗桃子吗？;
+choose:再摘下一颗桃子看看:神A_桃9.txt|不摘了，直接穿过这片桃林:神ALGBT.txt;

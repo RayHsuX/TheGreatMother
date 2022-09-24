@@ -1,0 +1,7 @@
+changeBg:圆满神背景.jpg -next
+:此时，你来到了另一个神像前;
+setFigAni:leftIn 2s -left;
+changeFigure:圆满之神.png -left;
+圆满之神:「你将为何耗尽一生？吾可以赐你圆满之力，但你要将你所拥有的尽数交于吾」 -圆满之神选项.ogg;
+changeFigure:none -left -next;
+choose:答应神明的条件，获得圆满之力:神明A-3-1.txt|拒绝，你不想放弃其它的东西:神明A-3-2.txt|你没想好，再考虑考虑:神明A-3-3.txt;

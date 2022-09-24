@@ -1,0 +1,4 @@
+changeBg:石中竹.jpg -next
+setFigAni:shake 0.5s -center;
+大地:灵笛的使者，我将为你指引接下来的方向。你往远方眺望，那里的山峰就是你下个要去的地方。让树枝化作你的剑，用勇气劈开那座山峰吧！ -灵笛提示.ogg;
+changeScene:神A顺性别_jb山.txt;

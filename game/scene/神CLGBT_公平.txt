@@ -1,0 +1,60 @@
+:尽管你感到不舒服，﻿但你还是尽量保持礼貌，﻿你对着虚空喊道;
+我:「是谁在说话？﻿你能带我出去吗？」;
+山:「把这颗种子带到旷野上种下，用你的血去供养它。」 -山公平.ogg;
+:你别无他法，只能答应。你的手中多了一颗种子，怎么扔也扔不掉。;
+setBgAni:rightIn 3s;
+changeBg:只缘身在此山中3.png -next
+前方的山体缓缓移动，一条路出现在你的面前，你不顾一切跑了出去。;
+:你获得了「种子·公平的交易？」 -获得.ogg;
+setBgAni:centerIn 3s;
+changeBg:旷野草地3.png -next
+bgm:bgmm/草地.mp3;
+:山路的尽头有光照进，你拖着疲惫的身躯向光的方向复行数十步，终于豁然开朗。;
+:微风吹过，带来青草的香气。当你看到面前广阔的旷野时，你第一次感觉到沐浴在明亮的阳光下是多么珍贵的体验。;
+:你渴了。;
+changeBg:湖面起雾2.png -next
+bgm:bgmm/湖.mp3;
+:旷野上有河流穿过，你走过去，捧起清澈的河水尽数饮下，直到口渴全然消失。
+你心满意足地躺在河边的草地上，水声潺潺仿佛天籁。;
+:你陷入了深深的睡眠中……
+;
+setBgAni:centerIn 5s;
+changeBg:与现实有关的梦 (1).jpg -next
+:......;
+changeBg:与现实有关的梦 (2).jpg
+changeBg:与现实有关的梦 (3).jpg
+changeBg:与现实有关的梦 (4).jpg
+changeBg:湖边草地小船2.png -next
+:你隐约做了个梦，但却记不得梦见了什么。;
+:这时，你发现河边不知不觉多了叶小舟。
+你感到强烈的好奇，下意识地上了小舟。;
+setBgAni:rightIn 3s;
+changeBg:永恒漂流1.png -next
+仿佛有灵性，这小舟竟自己动了起来。
+岸边河远处的山一起渐渐消失在你的视野，眼前只剩下这条看不见尽头的大河。;
+我:「它要带我去哪儿？」;
+playVideo:也.mp4;
+changeBg:永恒漂流2.png -next
+:恭喜你获得「寓言」 -获得.ogg;
+setBgAni:bg_down 3s;
+changeBg:湖面起雾1.png -next
+:河面渐渐起雾了。雾气中，有些图像若隐若现。;
+:你揉了揉双眼，想要看得更清楚些……;
+setFigAni:centerIn 5s -center;
+changeFigure:白诗齐 女人不是天生.png;
+望着这个图像，渐渐陷入了沉思;
+迷雾更浓了，看起来像是什么东西燃烧后的烟气。;
+changeFigure:none -next;
+setBgAni:centerIn 5s;
+changeBg:焦虑的身体.JPG
+changeBg:焦虑的身体2.jpg
+changeBg:焦虑的身体1.jpg
+setBgAni:centerIn 3s;
+changeBg:湖面起雾1.png -next
+:雾越来越浓，你几乎看不见稍远点的河面。
+你开始焦虑、恐慌，各种负面情绪袭来，你感觉你就是这叶孤舟，不知将要漂向何方。;
+倏忽间，一道光穿透厚厚的云层， 你仿佛找到了救命稻草。;
+playVideo:圣母启示录.mp4;
+setBgAni:centerIn 5s;
+changeBg:母与子1_00.jpg -next
+choose:神圣、安详的圣母啊，救赎我吧……:神CLGBT_公平_十二星.txt|不接受感召:神CLGBT_公平_勇敢者.txt;

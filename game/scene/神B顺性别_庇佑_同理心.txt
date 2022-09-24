@@ -1,0 +1,16 @@
+:你获得「同理心」 -获得.ogg;
+迷雾更浓了，看起来像是什么东西燃烧后的烟气。;
+changeFigure:none -next;
+setBgAni:centerIn 5s;
+changeBg:焦虑的身体.JPG
+changeBg:焦虑的身体2.jpg
+changeBg:焦虑的身体1.jpg
+setBgAni:centerIn 3s;
+changeBg:湖面起雾1.png -next
+:雾越来越浓，你几乎看不见稍远点的河面。
+你开始焦虑、恐慌，各种负面情绪袭来，你感觉你就是这叶孤舟，不知将要漂向何方。;
+倏忽间，一道光穿透厚厚的云层， 你仿佛找到了救命稻草。;
+playVideo:圣母启示录.mp4;
+setBgAni:centerIn 5s;
+changeBg:母与子1_00.jpg -next
+choose:神圣、安详的圣母啊，救赎我吧……:神B顺性别_庇佑_同理心_十二星.txt|不接受感召:神B顺性别_庇佑_同理心_勇敢者.txt;
