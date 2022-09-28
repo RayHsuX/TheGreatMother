@@ -3,6 +3,7 @@ changeBg:黑底.png
 脑海中突然闪过了一路走来的见闻。
 那些焦虑、痛苦、恐惧、沮丧是如此真实，无时无刻不在提醒你，能救赎你的只有你自己。;
 :恭喜你获得「勇敢者之心」 -获得.ogg;
+playVideo:玄牝同体.mp4;
 setBgAni:centerIn 2s;
 changeBg:玄牝之门.jpg -next
 :你找到了玄牝之门。
