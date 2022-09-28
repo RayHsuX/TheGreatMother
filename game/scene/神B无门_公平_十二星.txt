@@ -1,5 +1,5 @@
 changeBg:黑底.png -next
-:恭喜你获得「十二颗星」 -获得.ogg;
+:恭喜你获得「十二颗星」 -获得.mp3;
 :十二颗星：圣母头冠上的宝石，代表十二种德行的光辉。;
 setBgAni:centerIn 2s;
 changeBg:永恒漂流1.png -next

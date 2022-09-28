@@ -5,7 +5,7 @@ changeBg:肉胎并蒂莲1.gif -next
 setBgAni:bg_softIn 2s;
 changeBg:古静《井胎》.gif -next
 :「....我是谁？  这里是哪里？」;
-:环顾四周，都是光滑的井壁，一滴水落下，回声从各方传来。 -水滴.ogg;
+:环顾四周，都是光滑的井壁，一滴水落下，回声从各方传来。 -水滴.mp3;
 setBgAni:centerIn 3s;
 changeBg:莲花1_HD.png -next
 :除了还有许多尚未绽放的莲花花苞因你的诞生微微颤动着，此外空无一人。;

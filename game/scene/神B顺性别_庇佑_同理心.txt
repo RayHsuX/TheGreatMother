@@ -1,4 +1,4 @@
-:你获得「同理心」 -获得.ogg;
+:你获得「同理心」 -获得.mp3;
 迷雾更浓了，看起来像是什么东西燃烧后的烟气。;
 changeFigure:none -next;
 setBgAni:centerIn 5s;

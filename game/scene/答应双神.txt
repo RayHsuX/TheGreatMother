@@ -2,7 +2,7 @@ changeBg:黑底.png -next
 :突然，心中突然升起了一丝不安;
 setBgAni:centerIn 2s;
 changeBg:死后场景1.png -next
-神谴:贪心的凡人，你竟敢分别走向两个神的道路！你将为贪欲付出代价！ -选择双神 空灵.ogg;
-:你受到了天谴！ -惊雷.ogg;
+神谴:贪心的凡人，你竟敢分别走向两个神的道路！你将为贪欲付出代价！ -选择双神 空灵.mp3;
+:你受到了天谴！ -惊雷.mp3;
 playVideo:gameover.mp4;
 end;

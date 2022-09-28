@@ -7,7 +7,7 @@
 setBgAni:rightIn 3s;
 changeBg:只缘身在此山中3.png -next
 你的手还是在颤抖，但这不是因为力量的碰撞，而是你过于紧张，以至于不敢相信自己竟毫发无损。;
-:你获得了「俄狄浦斯的庇佑」 -获得.ogg;
+:你获得了「俄狄浦斯的庇佑」 -获得.mp3;
 setBgAni:centerIn 3s;
 changeBg:旷野草地3.png -next
 bgm:bgmm/草地.mp3;
@@ -37,7 +37,7 @@ changeBg:永恒漂流1.png -next
 我:「它要带我去哪儿？」;
 playVideo:也.mp4;
 changeBg:永恒漂流2.png -next
-:恭喜你获得「寓言」 -获得.ogg;
+:恭喜你获得「寓言」 -获得.mp3;
 setBgAni:bg_down 3s;
 changeBg:湖面起雾1.png -next
 :河面渐渐起雾了。雾气中，有些图像若隐若现。;

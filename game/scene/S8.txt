@@ -1,7 +1,7 @@
 bgm:bgmm/神像.mp3;
 setBgAni:centerIn 5s;
 changeBg:塔底2.png -next
-？？？:「迷惘的凡人，让吾为你解答心中所求。」 -神A1 双面人.ogg;
+？？？:「迷惘的凡人，让吾为你解答心中所求。」 -神A1 双面人.mp3;
 setBgAni:moveBaF 3s;
 changeBg:三神像.jpg -next
 :你背后传来不似人声的声音，你回头看去，竟是三座巨大的神像。
